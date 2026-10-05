@@ -1,0 +1,8 @@
+{
+  "name": "容錯式智慧地墊互動設計之發展與評估",
+  "description": "本原型提供45至75歲中高齡使用者，在智慧地墊固定的左右區域上進行低強度、左右交替踩踏。。",
+  "requestFramePermissions": [
+    "bluetooth"
+  ],
+  "majorCapabilities": []
+}
